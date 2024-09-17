@@ -3,8 +3,8 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>TEMPLATE</title>
-    <link rel="stylesheet" href="style.css" />
+    <title>EX00 - Basic Exercises</title>
+    <!-- <link rel="stylesheet" href="style.css" /> -->
   </head>
   <body>
     <!-- Header Section -->
@@ -12,6 +12,38 @@
       <div class="header-container">
     </header>
 
+    <ul>
+      <li>
+        <strong>Exercise 2: External JavaScript File</strong>
+        <ul>
+          <li>Create a variable <code>name</code> and assign your name.</li>
+          <li>Update the console log to display "Hi, my name is [Your Name]".</li>
+          <li>Create a variable <code>age</code> and set it to your age.</li>
+          <li>Update the console log to display "Hi, my name is [Your Name] and I am [Your Age] years old."</li>
+        </ul>
+      </li>
+    </ul>
+
+    <h3>Solution</h3>
+    <p>
+      To solve this exercise, we need to create a JavaScript file called <code>script.js</code> and include it in the HTML file.
+      We can use the <code>&lt;script&gt;</code> tag to include JavaScript code.
+    </p>
+    <h4>Code</h4>
+    <pre>
+      &lt;script&gt;
+      var userName = "Rafael";
+      var age = 42;
+      
+      console.log("Hi, my name is " + userName + " and I am " + age + " years old.");      
+      &lt;/script&gt;
+    </pre>
+    <h4>Result</h4>
+    <p>
+      The result of this exercise is to print "Hi, my name is Rafael and I am 42 years old." in the browser console.
+    </p>
+    <hr>
+    <script src="script.js"></script>
   </body>
 </html>
 <!-- BELOW: the debug JS file. Comment out when unneeded, uncomment when needed -->

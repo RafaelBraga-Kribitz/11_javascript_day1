@@ -1,6 +1,6 @@
 # JavaScript Day 1 - Exercises ToDo List
 
-## Warm-up Questions
+<!-- ## Warm-up Questions
 - [ ] Discuss the following questions:
   - [ ] Where does JavaScript fit in today's web development world?
   - [ ] In which industries is JavaScript implemented?
@@ -12,22 +12,22 @@
   - [ ] What is the JavaScript string concatenation operator?
   - [ ] What characters are used to define a JavaScript variable name?
   - [ ] What types of data does JavaScript support?
-  - [ ] What is the difference between a variable and an array?
+  - [ ] What is the difference between a variable and an array? -->
 
 ## EX00 - Basic Exercises
-- [ ] **Exercise 1: Internal JavaScript in HTML**
-  - [ ] Print "Hello from the Console" in the browser console.
-  - [ ] Display "Hello from the Browser" on the web page.
+- [x] **Exercise 1: Internal JavaScript in HTML**
+  - [x] Print "Hello from the Console" in the browser console.
+  - [x] Display "Hello from the Browser" on the web page.
 
-- [ ] **Exercise 2: External JavaScript File**
-  - [ ] Create a variable `name` and assign your name.
-  - [ ] Update the console log to display "Hi, my name is [Your Name]".
-  - [ ] Create a variable `age` and set it to your age.
-  - [ ] Update the console log to display "Hi, my name is [Your Name] and I am [Your Age] years old."
+- [x] **Exercise 2: External JavaScript File**
+  - [x] Create a variable `name` and assign your name.
+  - [x] Update the console log to display "Hi, my name is [Your Name]".
+  - [x] Create a variable `age` and set it to your age.
+  - [x] Update the console log to display "Hi, my name is [Your Name] and I am [Your Age] years old."
 
-- [ ] **Exercise 3: Array of Players**
-  - [ ] Create an array called `players` with the names: Martin, Thomas, Peter, Mathias, and Niki.
-  - [ ] Output the third player in the console as: "The most valuable player of the match is [Third Player Name]".
+- [x] **Exercise 3: Array of Players**
+  - [x] Create an array called `players` with the names: Martin, Thomas, Peter, Mathias, and Niki.
+  - [x] Output the third player in the console as: "The most valuable player of the match is [Third Player Name]".
 
 ## EX01 - Intermediate Exercises
 - [ ] **Exercise 1: Sort an Array Alphabetically**
