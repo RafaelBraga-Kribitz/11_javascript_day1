@@ -30,8 +30,8 @@
   - [x] Output the third player in the console as: "The most valuable player of the match is [Third Player Name]".
 
 ## EX01 - Intermediate Exercises
-- [ ] **Exercise 1: Sort an Array Alphabetically**
-  - [ ] Sort the following values alphabetically: Tesla, Audi, Renault, Volvo, Mazda, Fiat, and Ferrari.
+- [x] **Exercise 1: Sort an Array Alphabetically**
+  - [x] Sort the following values alphabetically: Tesla, Audi, Renault, Volvo, Mazda, Fiat, and Ferrari.
 
 - [ ] **Exercise 2: Array Operations**
   - [ ] First Array: Fruits (`'apple', 'banana', 'kiwi', 'mango', 'pear'`)
