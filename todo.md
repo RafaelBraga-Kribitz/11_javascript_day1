@@ -86,3 +86,4 @@
   - [ ] Structure the following sentence:
     `"Properties,$a$set$of$immutable$values,$are$passed$to$a$component's$renderer$as$properties$in$its$HTML$tag...."`
   - [ ] The result should remove the `$` symbols and format the sentence correctly.
+
