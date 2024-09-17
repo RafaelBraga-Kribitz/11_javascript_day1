@@ -70,28 +70,28 @@
       - [x] Replace `'giraffe'` with `'tiger'`.
     - [x] Sort the array in reverse alphabetical order and display it.
 
-- [ ] **Exercise 3: String Splitting**
+- [x] **Exercise 3: String Splitting**
   - [ ] Split the following string into individual fruits and display each one on a separate line:
     `"mango/cherries/kiwi/grapes/pear/peach/orange/lemon"`
 
 ## EX02 - Advanced Exercises
 
-- [ ] **Exercise 1: Arithmetic Operations**
-  - [ ] Declare and sum the following variables:
-    - [ ] `let a = 7;`
-    - [ ] `let b = 14;`
-    - [ ] `let c = "21";`
-    - [ ] `let d = '36';`
-    - [ ] `let e = 42;`
-  - [ ] Multiply the following variables:
-    - [ ] `let f = '1';`
-    - [ ] `let g = 15;`
-    - [ ] `let h = 8;`
-    - [ ] `let i = "1";`
-  - [ ] Divide the sum by the product and print the result in the web browser.
+- [x] **Exercise 1: Arithmetic Operations**
+  - [x] Declare and sum the following variables:
+    - [x] `let a = 7;`
+    - [x] `let b = 14;`
+    - [x] `let c = "21";`
+    - [x] `let d = '36';`
+    - [x] `let e = 42;`
+  - [x] Multiply the following variables:
+    - [x] `let f = '1';`
+    - [x] `let g = 15;`
+    - [x] `let h = 8;`
+    - [x] `let i = "1";`
+  - [x] Divide the sum by the product and print the result in the web browser.
 
-- [ ] **Exercise 2: Array Manipulation**
-  - [ ] Declare an array `people` with the values: Greg, Mary, Devon, James.
+- [x] **Exercise 2: Array Manipulation**
+  - [x] Declare an array `people` with the values: Greg, Mary, Devon, James.
   - [ ] Perform the following operations:
     - [ ] Remove "Greg" from the array.
     - [ ] Add "Matt" to the front of the array.
