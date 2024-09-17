@@ -1,18 +1,39 @@
 # JavaScript Day 1 - Exercises ToDo List
 
-<!-- ## Warm-up Questions
-- [ ] Discuss the following questions:
-  - [ ] Where does JavaScript fit in today's web development world?
-  - [ ] In which industries is JavaScript implemented?
-  - [ ] What is the main role of JavaScript in Front-End development?
-  - [ ] Is JavaScript a programming or scripting language?
-  - [ ] Which tags are used to enclose JavaScript code?
-  - [ ] How can you include JavaScript code from another source in HTML documents? Where is it placed in the HTML?
-  - [ ] How can you create comments in JavaScript? (Single-line and multi-line)
-  - [ ] What is the JavaScript string concatenation operator?
-  - [ ] What characters are used to define a JavaScript variable name?
-  - [ ] What types of data does JavaScript support?
-  - [ ] What is the difference between a variable and an array? -->
+## Warm-up Questions
+- [x] Discuss the following questions:
+  - [x] Where does JavaScript fit in today's web development world?
+    - R: JavaScript is a crucial part of modern web development, used for creating interactive and dynamic web applications. It's essential for both front-end and back-end development.
+
+  - [x] In which industries is JavaScript implemented?
+    - R: JavaScript is used across various industries including web development, mobile app development, game development, IoT, artificial intelligence, and data visualization.
+
+  - [x] What is the main role of JavaScript in Front-End development?
+    - R: In front-end development, JavaScript is primarily used to create interactive user interfaces, handle user events, manipulate the DOM, and communicate with back-end services.
+
+  - [x] Is JavaScript a programming or scripting language?
+    - R: JavaScript is both a programming and scripting language. It can be used for complex programming tasks and also as a scripting language for web browsers.
+
+  - [x] Which tags are used to enclose JavaScript code?
+    - R: JavaScript code is typically enclosed in `<script>` tags in HTML documents.
+
+  - [x] How can you include JavaScript code from another source in HTML documents? Where is it placed in the HTML?
+    - R: External JavaScript files can be included using the `<script>` tag with a `src` attribute. It's often placed just before the closing `</body>` tag for better performance.
+
+  - [x] How can you create comments in JavaScript? (Single-line and multi-line)
+    - R: Single-line comments use //. Multi-line comments are enclosed in /* */.
+
+  - [x] What is the JavaScript string concatenation operator?
+    - R: The string concatenation operator in JavaScript is the plus sign (+).
+
+  - [x] What characters are used to define a JavaScript variable name?
+    - R: JavaScript variable names can include letters, digits, underscores, and dollar signs. They must start with a letter, underscore, or dollar sign.
+
+  - [x] What types of data does JavaScript support?
+    - R: JavaScript supports several data types including Number, String, Boolean, Object, Array, Null, and Undefined.
+
+  - [x] What is the difference between a variable and an array?
+    - R: A variable holds a single value, while an array is a special type of object that can hold multiple values in an ordered list.
 
 ## EX00 - Basic Exercises
 - [x] **Exercise 1: Internal JavaScript in HTML**
