@@ -57,18 +57,18 @@
 - [x] **Exercise 1: Sort an Array Alphabetically**
   - [x] Sort the following values alphabetically: Tesla, Audi, Renault, Volvo, Mazda, Fiat, and Ferrari.
 
-- [ ] **Exercise 2: Array Operations**
-  - [ ] First Array: Fruits (`'apple', 'banana', 'kiwi', 'mango', 'pear'`)
-    - [ ] Output the array with the following modifications:
-      - [ ] Add `'orange'` to the array.
-      - [ ] Remove `'apple'` from the array.
-      - [ ] Replace `'pear'` with `'strawberry'`.
-  - [ ] Second Array: Animals (`'monkey', 'horse', 'dog', 'elephant', 'giraffe'`)
-    - [ ] Output the array with the following modifications:
-      - [ ] Remove `'monkey'` from the array.
-      - [ ] Add `'cat'` to the beginning of the array.
-      - [ ] Replace `'giraffe'` with `'tiger'`.
-    - [ ] Sort the array in reverse alphabetical order and display it.
+- [x] **Exercise 2: Array Operations**
+  - [x] First Array: Fruits (`'apple', 'banana', 'kiwi', 'mango', 'pear'`)
+    - [x] Output the array with the following modifications:
+      - [x] Add `'orange'` to the array.
+      - [x] Remove `'apple'` from the array.
+      - [x] Replace `'pear'` with `'strawberry'`.
+  - [x] Second Array: Animals (`'monkey', 'horse', 'dog', 'elephant', 'giraffe'`)
+    - [x] Output the array with the following modifications:
+      - [x] Remove `'monkey'` from the array.
+      - [x] Add `'cat'` to the beginning of the array.
+      - [x] Replace `'giraffe'` with `'tiger'`.
+    - [x] Sort the array in reverse alphabetical order and display it.
 
 - [ ] **Exercise 3: String Splitting**
   - [ ] Split the following string into individual fruits and display each one on a separate line:
