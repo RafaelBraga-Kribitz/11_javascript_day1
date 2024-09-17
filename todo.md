@@ -1,6 +1,7 @@
 # JavaScript Day 1 - Exercises ToDo List
 
 ## Warm-up Questions
+
 - [x] Discuss the following questions:
   - [x] Where does JavaScript fit in today's web development world?
     - R: JavaScript is a crucial part of modern web development, used for creating interactive and dynamic web applications. It's essential for both front-end and back-end development.
@@ -21,7 +22,7 @@
     - R: External JavaScript files can be included using the `<script>` tag with a `src` attribute. It's often placed just before the closing `</body>` tag for better performance.
 
   - [x] How can you create comments in JavaScript? (Single-line and multi-line)
-    - R: Single-line comments use //. Multi-line comments are enclosed in /* */.
+    - R: Single-line comments use //. Multi-line comments are enclosed in /**/.
 
   - [x] What is the JavaScript string concatenation operator?
     - R: The string concatenation operator in JavaScript is the plus sign (+).
@@ -36,6 +37,7 @@
     - R: A variable holds a single value, while an array is a special type of object that can hold multiple values in an ordered list.
 
 ## EX00 - Basic Exercises
+
 - [x] **Exercise 1: Internal JavaScript in HTML**
   - [x] Print "Hello from the Console" in the browser console.
   - [x] Display "Hello from the Browser" on the web page.
@@ -51,6 +53,7 @@
   - [x] Output the third player in the console as: "The most valuable player of the match is [Third Player Name]".
 
 ## EX01 - Intermediate Exercises
+
 - [x] **Exercise 1: Sort an Array Alphabetically**
   - [x] Sort the following values alphabetically: Tesla, Audi, Renault, Volvo, Mazda, Fiat, and Ferrari.
 
@@ -72,6 +75,7 @@
     `"mango/cherries/kiwi/grapes/pear/peach/orange/lemon"`
 
 ## EX02 - Advanced Exercises
+
 - [ ] **Exercise 1: Arithmetic Operations**
   - [ ] Declare and sum the following variables:
     - [ ] `let a = 7;`
@@ -103,8 +107,8 @@
   - [ ] Display the numbers: 11, 25, 17, 27, and 0 in the console.
 
 ## Challenge
+
 - [ ] **Exercise 1: String Manipulation**
   - [ ] Structure the following sentence:
     `"Properties,$a$set$of$immutable$values,$are$passed$to$a$component's$renderer$as$properties$in$its$HTML$tag...."`
   - [ ] The result should remove the `$` symbols and format the sentence correctly.
-
