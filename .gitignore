@@ -12,17 +12,17 @@
 
 # macOS system files
 .DS_Store
-.AppleDouble
-.LSOverride
-.Spotlight-V100
-.Trashes
-.Dumpster
-.fseventsd
-.VolumeIcon.icns
+# .AppleDouble
+# .LSOverride
+# .Spotlight-V100
+# .Trashes
+# .Dumpster
+# .fseventsd
+# .VolumeIcon.icns
 
 # VSCode specific files
-.vscode/
-*.code-workspace
+# .vscode/
+# *.code-workspace
 
 # Other folders to ignore
 
