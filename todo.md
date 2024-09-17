@@ -14,7 +14,7 @@
   - [ ] What types of data does JavaScript support?
   - [ ] What is the difference between a variable and an array?
 
-## Basic Exercises
+## EX00 - Basic Exercises
 - [ ] **Exercise 1: Internal JavaScript in HTML**
   - [ ] Print "Hello from the Console" in the browser console.
   - [ ] Display "Hello from the Browser" on the web page.
@@ -29,7 +29,7 @@
   - [ ] Create an array called `players` with the names: Martin, Thomas, Peter, Mathias, and Niki.
   - [ ] Output the third player in the console as: "The most valuable player of the match is [Third Player Name]".
 
-## Intermediate Exercises
+## EX01 - Intermediate Exercises
 - [ ] **Exercise 1: Sort an Array Alphabetically**
   - [ ] Sort the following values alphabetically: Tesla, Audi, Renault, Volvo, Mazda, Fiat, and Ferrari.
 
@@ -50,7 +50,7 @@
   - [ ] Split the following string into individual fruits and display each one on a separate line:
     `"mango/cherries/kiwi/grapes/pear/peach/orange/lemon"`
 
-## Advanced Exercises
+## EX02 - Advanced Exercises
 - [ ] **Exercise 1: Arithmetic Operations**
   - [ ] Declare and sum the following variables:
     - [ ] `let a = 7;`
