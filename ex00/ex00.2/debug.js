@@ -5,3 +5,5 @@ document.querySelectorAll('*').forEach(element => {
     element.style.borderWidth = "1px";
     element.style.borderStyle = "solid";
 });
+
+
